@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 [Live site URL here](https://mendezpvi.github.io/fem-qr-code-component/) 👈
 
-<!-- [Solution in Frontend Mentor]() 👈 -->
+[Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-rpCIs7DtWB) 👈
 
 
 ## Built with :hammer_and_pick:
